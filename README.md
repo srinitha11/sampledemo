@@ -1,2 +1,2 @@
-# sampledemo
-itsa sample repsitory demo
+## sampledemo
+its a sample repsitory demo
